@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_77" class="java.beans.XMLDecoder">
+ <object class="presenter.Properties">
+  <void property="algorithm">
+   <string>BFS</string>
+  </void>
+  <void property="axis">
+   <char>y</char>
+  </void>
+  <void property="chooseView">
+   <string>Gui</string>
+  </void>
+  <void property="nameMaze">
+   <string>gjjk</string>
+  </void>
+  <void property="numOfThread">
+   <int>4</int>
+  </void>
+  <void property="sizeX">
+   <int>4</int>
+  </void>
+  <void property="sizeY">
+   <int>4</int>
+  </void>
+  <void property="sizeZ">
+   <int>4</int>
+  </void>
+ </object>
+</java>
